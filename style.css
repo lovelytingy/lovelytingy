@@ -36,6 +36,7 @@ body {
 	margin: 0 auto;
 	height: 140px;
 	width: 140px;
+	object-fit: cover;
 }
 a {
 	color: var(--lightest-color);
